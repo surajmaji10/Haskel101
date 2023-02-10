@@ -10,3 +10,6 @@ showPlus x y = "(" ++ x ++ "+" ++ y ++ ")"
 
 -- foldl (-) 0 [1, 2, 3, 4]
 -- foldr (-) 0 [1, 2, 3, 4]
+
+
+-- foldl is faster
